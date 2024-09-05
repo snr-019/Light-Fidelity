@@ -5,4 +5,5 @@ LiFi Prototype that transmits data using visible light, aiming to surpass tradit
 
 ## Requirements
   Tools Used: Arduino IDE, Bluetooth Terminal Application.
+  <br>
   Hardware Used: Arduino UNO, Bluetooth Sensors, LDR, Resisters, Jumper Wires, LED’S, Breadboard.
